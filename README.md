@@ -34,7 +34,7 @@ TrioTasteFinder/
 
 ---
 
-## 📊 Flowchart – Program Logic
+## Flowchart – Program Logic
 
 "<img src="https://github.com/user-attachments/assets/237a6883-4aa9-4759-bf2c-c5fa2b31e100" height = "500"/>
 
